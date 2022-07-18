@@ -1,0 +1,9 @@
+install virtualenv: pip install virtualenv
+install django: pip install django
+check version of django: django-admin version
+create a virtual env: virtualenv env(name of the virtual environment)
+activate virtual environment: env\scripts\activate
+deactivate virtual environment: env\scripts\deactivate
+clear screen: cls
+starting a project in django: django-admin startproject projectname
+runserver: python manage.py runserver
